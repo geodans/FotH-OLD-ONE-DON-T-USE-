@@ -1,0 +1,7 @@
+spriteTypes = {
+
+	spriteType = {
+		name = "GFX_ideology_feudal_monarchy_group"
+		texturefile = "gfx//interface//ideologies//feudal_monarchy_group.dds"
+	}
+}

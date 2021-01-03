@@ -1,0 +1,7 @@
+spriteTypes = {
+
+	spriteType = {
+		name = "GFX_ideology_constitutional_monarchy_group"
+		texturefile = "gfx//interface//ideologies//constitutional_monarchy_group.dds"
+	}
+}
